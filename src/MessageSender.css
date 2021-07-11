@@ -118,3 +118,12 @@
   width: 100%;
   margin-left: 52px;
 }
+
+@media(max-width:768px){
+ input{
+   width: 100;
+ }
+ textarea{
+   width: 100%;
+ }
+}
