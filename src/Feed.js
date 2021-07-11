@@ -24,7 +24,7 @@ console.log("In feed.js>>",objectData);
 
 
   return(
-  <div className="feed">
+  <div className="feed" style={{padding:"0px"}}>
 
 
 <Link to="/MessageSender">
