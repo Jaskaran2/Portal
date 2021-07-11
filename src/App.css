@@ -10,5 +10,6 @@
 @media(max-width:768px){
   .app__body{
     display: flex;
+    flex-direction: column;
   }
 }
